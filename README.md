@@ -2,7 +2,7 @@
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate with opportunity for growth and development 
--    I’m living in Dubai
+-     I’m living in Dubai
 - 📫 How to reach me Razasd7506@gmail.com
 
 <!---
